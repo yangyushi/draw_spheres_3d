@@ -16,4 +16,4 @@ to build the module `draw`, so that one can `import draw` in a python script
 
 Please see the tiny jupyter notebook
 
-This code is written by Yushi in a cloudy Tuesday morning
+This code was written by Yushi in a cloudy Tuesday morning
